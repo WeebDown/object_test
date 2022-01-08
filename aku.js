@@ -31,6 +31,14 @@ with(coba){
 
 
 
+//testttsts
+let name = {
+    firstName : "wili",
+    lastName : "chad",
+    fullName : function () {
+        return this.firstName + this.lastName; 
+    }
+}
 
 
 
